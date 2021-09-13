@@ -55,7 +55,7 @@ class RacesPage extends ListPage {
 		eleLi.className = `lst__row flex-col ${isExcluded ? "lst__row--blacklisted" : ""}`;
 
 		const hash = UrlUtil.autoEncodeHash(race);
-		const ability = race.ability ? Renderer.getAbilityData(race.ability) : {asTextShort: "无"};
+		const ability = race.ability ? Renderer.getAbilityData(race.ability) : {asTextShort: "無"};
 		const size = (race.size || [SZ_VARIES]).map(sz => Parser.sizeAbvToFull(sz)).join("/");
 		const source = Parser.sourceJsonToAbv(race.source);
 
@@ -157,7 +157,7 @@ class RacesPage extends ListPage {
 				isVisible: Renderer.utils.hasFluffText(race, "raceFluff"),
 			}),
 			new Renderer.utils.TabButton({
-				label: "图片",
+				label: "圖片",
 				fnPopulate: buildFluffTab.bind(null, true),
 				isVisible: Renderer.utils.hasFluffImages(race, "raceFluff"),
 			}),

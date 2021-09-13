@@ -84,7 +84,7 @@
 					"id": "006",
 					"entries": [
 						"DM: All right, Amy, let's see how sneaky you are. Make a Dexterity check.",
-						"Amy: With my {@skill 隐匿} skill, right?",
+						"Amy: With my {@skill 隱匿} skill, right?",
 						"DM: You bet.",
 						"Amy (rolling a {@dice d20}): I'm pretty sneaky\u2014that's a 17.",
 						"DM: OK, there's no sign that anyone notices you. And you're looking inside?"
@@ -685,7 +685,7 @@
 									"name": "Proficiency Bonus",
 									"id": "029",
 									"entries": [
-										"You might be particularly skilled at a certain kind of task related to an ability check. The character sheets list each character's proficiencies with skills and special tools, and the monster statistics in the adventure book show monsters' proficiencies. If you have proficiency in a skill, such as {@skill 体操} or {@skill 欺瞒}, you add your proficiency bonus to ability checks you make that use that skill. If you have proficiency with a certain tool, such as {@item 盗贼工具|phb}, you add your proficiency bonus to ability checks you make using those tools. You never add your proficiency bonus more than once to the same {@dice d20} roll.",
+										"You might be particularly skilled at a certain kind of task related to an ability check. The character sheets list each character's proficiencies with skills and special tools, and the monster statistics in the adventure book show monsters' proficiencies. If you have proficiency in a skill, such as {@skill 體操} or {@skill 欺瞞}, you add your proficiency bonus to ability checks you make that use that skill. If you have proficiency with a certain tool, such as {@item 盜賊工具|phb}, you add your proficiency bonus to ability checks you make using those tools. You never add your proficiency bonus more than once to the same {@dice d20} roll.",
 										{
 											"type": "inset",
 											"id": "02a",
@@ -739,9 +739,9 @@
 									"id": "02d",
 									"entries": [
 										"Each ability covers a broad range of capabilities, including skills that a character can be proficient in. A skill represents a specific aspect of an ability score, and a character's proficiency in a skill demonstrates a focus on that aspect.",
-										"A Dexterity check might, for example, reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: {@skill 体操}, {@skill 巧手}, and {@skill 隐匿}, respectively. So a character who has proficiency in the {@skill 隐匿} skill is particularly good at Dexterity checks related to sneaking and hiding.",
-										"Sometimes, the DM might ask for an ability check using a specific skill\u2014for example, \"Make a Wisdom ({@skill 察觉}) check.\" At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means a character can add his or her proficiency bonus to ability checks that use that skill. Without proficiency in the skill, the character makes a normal ability check.",
-										"For example, if a character attempts to climb up a dangerous cliff, the Dungeon Master might ask for a Strength ({@skill 运动}) check. If the character is proficient in {@skill 运动}, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.",
+										"A Dexterity check might, for example, reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: {@skill 體操}, {@skill 巧手}, and {@skill 隱匿}, respectively. So a character who has proficiency in the {@skill 隱匿} skill is particularly good at Dexterity checks related to sneaking and hiding.",
+										"Sometimes, the DM might ask for an ability check using a specific skill\u2014for example, \"Make a Wisdom ({@skill 察覺}) check.\" At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means a character can add his or her proficiency bonus to ability checks that use that skill. Without proficiency in the skill, the character makes a normal ability check.",
+										"For example, if a character attempts to climb up a dangerous cliff, the Dungeon Master might ask for a Strength ({@skill 運動}) check. If the character is proficient in {@skill 運動}, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.",
 										{
 											"type": "inset",
 											"id": "02e",
@@ -793,13 +793,13 @@
 							"name": "Strength Checks",
 							"id": "02f",
 							"entries": [
-								"Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force. A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The {@skill 运动} skill reflects aptitude in certain kinds of Strength checks.",
+								"Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force. A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The {@skill 運動} skill reflects aptitude in certain kinds of Strength checks.",
 								{
 									"type": "entries",
 									"name": "Athletics",
 									"id": "030",
 									"entries": [
-										"Your Strength ({@skill 运动}) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:",
+										"Your Strength ({@skill 運動}) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:",
 										{
 											"type": "list",
 											"items": [
@@ -818,7 +818,7 @@
 							"name": "Dexterity Checks",
 							"id": "031",
 							"entries": [
-								"Dexterity measures physical agility, reflexes, and balance. A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The {@skill 体操}, {@skill 巧手}, and {@skill 隐匿} skills reflect aptitude in certain kinds of Dexterity checks.",
+								"Dexterity measures physical agility, reflexes, and balance. A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The {@skill 體操}, {@skill 巧手}, and {@skill 隱匿} skills reflect aptitude in certain kinds of Dexterity checks.",
 								{
 									"type": "inset",
 									"id": "032",
@@ -843,7 +843,7 @@
 									"name": "Acrobatics",
 									"id": "033",
 									"entries": [
-										"Your Dexterity ({@skill 体操}) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity ({@skill 体操}) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips."
+										"Your Dexterity ({@skill 體操}) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity ({@skill 體操}) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips."
 									]
 								},
 								{
@@ -880,7 +880,7 @@
 									"name": "Stealth",
 									"id": "036",
 									"entries": [
-										"Make a Dexterity ({@skill 隐匿}) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.",
+										"Make a Dexterity ({@skill 隱匿}) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.",
 										{
 											"type": "inset",
 											"id": "037",
@@ -904,15 +904,15 @@
 											"name": "Hiding and Vision",
 											"id": "038",
 											"entries": [
-												"When you try to hide, make a Dexterity ({@skill 隐匿}) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom ({@skill 察觉}) check of any creature that actively searches for signs of your presence.",
-												"You can't hide from a creature that can see you, and if you make noise (such as shouting a warning or knocking over a vase), you give away your position. An {@condition 隐形} creature can't be seen, so it can always try to hide. Signs of its passage might still be noticed, however, and it still has to stay quiet.",
+												"When you try to hide, make a Dexterity ({@skill 隱匿}) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom ({@skill 察覺}) check of any creature that actively searches for signs of your presence.",
+												"You can't hide from a creature that can see you, and if you make noise (such as shouting a warning or knocking over a vase), you give away your position. An {@condition 隱形} creature can't be seen, so it can always try to hide. Signs of its passage might still be noticed, however, and it still has to stay quiet.",
 												{
 													"type": "entries",
 													"name": "Passive Perception",
 													"id": "039",
 													"entries": [
-														"When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity ({@skill 隐匿}) check with that creature's passive Wisdom ({@skill 察觉}) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5.",
-														"For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in {@skill 察觉}, they have a passive Wisdom ({@skill 察觉}) score of 14."
+														"When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity ({@skill 隱匿}) check with that creature's passive Wisdom ({@skill 察覺}) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5.",
+														"For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in {@skill 察覺}, they have a passive Wisdom ({@skill 察覺}) score of 14."
 													]
 												},
 												{
@@ -920,7 +920,7 @@
 													"name": "What Can You See",
 													"id": "03a",
 													"entries": [
-														"One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured. In a lightly obscured area\u2014such as dim light, patchy fog, or moderate foliage\u2014creatures have disadvantage on Wisdom ({@skill 察觉}) checks that rely on sight. In a heavily obscured area\u2014such as darkness, opaque fog, or dense foliage\u2014vision is blocked, effectively imposing the {@condition 目盲} condition, as explained in the appendix."
+														"One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured. In a lightly obscured area\u2014such as dim light, patchy fog, or moderate foliage\u2014creatures have disadvantage on Wisdom ({@skill 察覺}) checks that rely on sight. In a heavily obscured area\u2014such as darkness, opaque fog, or dense foliage\u2014vision is blocked, effectively imposing the {@condition 目盲} condition, as explained in the appendix."
 													]
 												}
 											]
@@ -998,13 +998,13 @@
 							"name": "Intelligence Checks",
 							"id": "03e",
 							"entries": [
-								"Intelligence measures mental acuity, strength of recall, and the ability to reason. An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The {@skill 奥秘}, {@skill 历史}, {@skill 调查}, {@skill 自然}, and {@skill 宗教} skills reflect aptitude in certain kinds of Intelligence checks.",
+								"Intelligence measures mental acuity, strength of recall, and the ability to reason. An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The {@skill 奧祕}, {@skill 歷史}, {@skill 調查}, {@skill 自然}, and {@skill 宗教} skills reflect aptitude in certain kinds of Intelligence checks.",
 								{
 									"type": "entries",
 									"name": "Arcana",
 									"id": "03f",
 									"entries": [
-										"Your Intelligence ({@skill 奥秘}) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes."
+										"Your Intelligence ({@skill 奧祕}) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes."
 									]
 								},
 								{
@@ -1012,7 +1012,7 @@
 									"name": "History",
 									"id": "040",
 									"entries": [
-										"Your Intelligence ({@skill 历史}) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations."
+										"Your Intelligence ({@skill 歷史}) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations."
 									]
 								},
 								{
@@ -1020,7 +1020,7 @@
 									"name": "Investigation",
 									"id": "041",
 									"entries": [
-										"When you look around for clues and make deductions based on those clues, you make an Intelligence ({@skill 调查}) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence ({@skill 调查}) check."
+										"When you look around for clues and make deductions based on those clues, you make an Intelligence ({@skill 調查}) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence ({@skill 調查}) check."
 									]
 								},
 								{
@@ -1063,13 +1063,13 @@
 							"name": "Wisdom Checks",
 							"id": "045",
 							"entries": [
-								"Wisdom reflects how attuned you are to the world around you, representing perceptiveness and intuition. A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The {@skill 驯兽}, {@skill 洞悉}, {@skill 医疗}, {@skill 察觉}, and {@skill 生存} skills reflect aptitude in certain kinds of Wisdom checks.",
+								"Wisdom reflects how attuned you are to the world around you, representing perceptiveness and intuition. A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The {@skill 馴獸}, {@skill 洞悉}, {@skill 醫療}, {@skill 察覺}, and {@skill 生存} skills reflect aptitude in certain kinds of Wisdom checks.",
 								{
 									"type": "entries",
 									"name": "Animal Handling",
 									"id": "046",
 									"entries": [
-										"When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the DM might call for a Wisdom ({@skill 驯兽}) check. You also make a Wisdom ({@skill 驯兽}) check to control your mount when you attempt a risky maneuver.",
+										"When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the DM might call for a Wisdom ({@skill 馴獸}) check. You also make a Wisdom ({@skill 馴獸}) check to control your mount when you attempt a risky maneuver.",
 										{
 											"type": "inset",
 											"id": "047",
@@ -1126,7 +1126,7 @@
 									"name": "Medicine",
 									"id": "04a",
 									"entries": [
-										"A Wisdom ({@skill 医疗}) check lets you try to stabilize a dying companion or diagnose an illness.",
+										"A Wisdom ({@skill 醫療}) check lets you try to stabilize a dying companion or diagnose an illness.",
 										{
 											"type": "inset",
 											"id": "04b",
@@ -1152,7 +1152,7 @@
 									"name": "Perception",
 									"id": "04c",
 									"entries": [
-										"Your Wisdom ({@skill 察觉}) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.",
+										"Your Wisdom ({@skill 察覺}) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.",
 										{
 											"type": "inset",
 											"id": "04d",
@@ -1208,13 +1208,13 @@
 							"name": "Charisma Checks",
 							"id": "050",
 							"entries": [
-								"Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence. A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The {@skill 欺瞒}, {@skill 威吓}, {@skill 表演}, and {@skill 说服} skills reflect aptitude in certain kinds of Charisma checks.",
+								"Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence. A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The {@skill 欺瞞}, {@skill 威嚇}, {@skill 表演}, and {@skill 說服} skills reflect aptitude in certain kinds of Charisma checks.",
 								{
 									"type": "entries",
 									"name": "Deception",
 									"id": "051",
 									"entries": [
-										"Your Charisma ({@skill 欺瞒}) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie."
+										"Your Charisma ({@skill 欺瞞}) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie."
 									]
 								},
 								{
@@ -1222,7 +1222,7 @@
 									"name": "Intimidation",
 									"id": "052",
 									"entries": [
-										"When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma ({@skill 威吓}) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision."
+										"When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma ({@skill 威嚇}) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision."
 									]
 								},
 								{
@@ -1238,14 +1238,14 @@
 									"name": "Persuasion",
 									"id": "054",
 									"entries": [
-										"When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma ({@skill 说服}) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.",
+										"When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma ({@skill 說服}) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.",
 										{
 											"type": "inset",
 											"name": "Finding a Hidden Object",
 											"id": "055",
 											"entries": [
-												"When your character searches for a hidden object such as a secret door or a trap, the DM typically asks you to make a Wisdom ({@skill 察觉}) check. Such a check can be used to find hidden details or other information and clues that you might otherwise overlook.",
-												"In most cases, you need to describe where you are looking in order for the DM to determine your chance of success. For example, a key is hidden beneath a set of folded clothes in the top drawer of a bureau. If you tell the DM that you pace around the room, looking at the walls and furniture for clues, you have no chance of finding the key, regardless of your Wisdom ({@skill 察觉}) check result. You would have to specify that you were opening the drawers or searching the bureau in order to have any chance of success."
+												"When your character searches for a hidden object such as a secret door or a trap, the DM typically asks you to make a Wisdom ({@skill 察覺}) check. Such a check can be used to find hidden details or other information and clues that you might otherwise overlook.",
+												"In most cases, you need to describe where you are looking in order for the DM to determine your chance of success. For example, a key is hidden beneath a set of folded clothes in the top drawer of a bureau. If you tell the DM that you pace around the room, looking at the walls and furniture for clues, you have no chance of finding the key, regardless of your Wisdom ({@skill 察覺}) check result. You would have to specify that you were opening the drawers or searching the bureau in order to have any chance of success."
 											]
 										}
 									]
@@ -1368,7 +1368,7 @@
 									"width": 600,
 									"height": 505
 								},
-								"The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ({@skill 隐匿}) checks of anyone hiding with the passive Wisdom ({@skill 察觉}) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.",
+								"The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ({@skill 隱匿}) checks of anyone hiding with the passive Wisdom ({@skill 察覺}) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.",
 								"If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.",
 								{
 									"type": "inset",
@@ -1504,7 +1504,7 @@
 								"On your turn, you can {@b move} a distance up to your speed and {@b take one action}. You decide whether to move first or take your action first. Your speed\u2014sometimes called your walking speed\u2014is noted on your character sheet.",
 								"The most common actions you can take are described in the \"{@book Actions in Combat|RMR|1|Actions in Combat}\" section later in this chapter. Many class features and other abilities provide additional options for your action.",
 								"The \"{@book Movement and Position|RMR|1|Movement and Position}\" section later in this chapter gives the rules for your move.",
-								"You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the {@action 闪避} or {@action 准备} action, as described in \"{@book Actions in Combat|RMR|1|Actions in Combat}.\"",
+								"You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the {@action 閃避} or {@action 準備} action, as described in \"{@book Actions in Combat|RMR|1|Actions in Combat}.\"",
 								{
 									"type": "entries",
 									"name": "Bonus Actions",
@@ -1631,7 +1631,7 @@
 								},
 								"You can break up your movement on your turn, using some of your speed both before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, search for a trap door, and then move 20 feet.",
 								"Similarly, if you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks.",
-								"If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the {@spell 飞行术} spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.",
+								"If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the {@spell 飛行術} spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.",
 								{
 									"type": "inset",
 									"id": "06b",
@@ -1733,7 +1733,7 @@
 							"name": "Attack",
 							"id": "072",
 							"entries": [
-								"The most common action to take in combat is the {@action 攻击} action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.",
+								"The most common action to take in combat is the {@action 攻擊} action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.",
 								"With this action, you make one melee or ranged attack. See the \"{@book Making an Attack|RMR|1|Making an Attack}\" section for the rules that govern attacks.",
 								"Certain features, such as the Extra Attack feature that the fighter gets at 5th level, allow you to make more than one attack with this action.",
 								{
@@ -1773,7 +1773,7 @@
 							"name": "Disengage",
 							"id": "075",
 							"entries": [
-								"If you take the {@action 撤离} action, your movement doesn't provoke opportunity attacks for the rest of the turn.",
+								"If you take the {@action 撤離} action, your movement doesn't provoke opportunity attacks for the rest of the turn.",
 								{
 									"type": "inset",
 									"id": "076",
@@ -1801,7 +1801,7 @@
 							"name": "Dodge",
 							"id": "077",
 							"entries": [
-								"When you take the {@action 闪避} action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are {@condition 无力} (as explained in {@book appendix A|RMR|4}) or if your speed drops to 0."
+								"When you take the {@action 閃避} action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are {@condition 無力} (as explained in {@book appendix A|RMR|4}) or if your speed drops to 0."
 							]
 						},
 						{
@@ -1809,7 +1809,7 @@
 							"name": "Help",
 							"id": "078",
 							"entries": [
-								"You can lend your aid to another creature in the completion of a task. When you take the {@action 协助} action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.",
+								"You can lend your aid to another creature in the completion of a task. When you take the {@action 協助} action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.",
 								"Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.",
 								{
 									"type": "inset",
@@ -1836,7 +1836,7 @@
 							"name": "Hide",
 							"id": "07a",
 							"entries": [
-								"When you take the {@action 躲藏} action, you make a Dexterity ({@skill 隐匿}) check in an attempt to hide, following the rules in {@book chapter 1|RMR|0} for hiding. If you succeed, you gain certain benefits, as described in the \"{@book Unseen Attackers and Targets|RMR|1|Unseen Attackers and Targets}\" section later in this chapter."
+								"When you take the {@action 躲藏} action, you make a Dexterity ({@skill 隱匿}) check in an attempt to hide, following the rules in {@book chapter 1|RMR|0} for hiding. If you succeed, you gain certain benefits, as described in the \"{@book Unseen Attackers and Targets|RMR|1|Unseen Attackers and Targets}\" section later in this chapter."
 							]
 						},
 						{
@@ -1844,10 +1844,10 @@
 							"name": "Ready",
 							"id": "07b",
 							"entries": [
-								"Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the {@action 准备} action on your turn, which lets you act using your reaction before the start of your next turn.",
+								"Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the {@action 準備} action on your turn, which lets you act using your reaction before the start of your next turn.",
 								"First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include \"If the cultist steps on the trapdoor, I'll pull the lever that opens it,\" and {@highlight \"If the goblin steps next to me, I move away.\"}",
 								"When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.",
-								"A spell must have a casting time of 1 action to be readied, and holding onto the spell's magic until you release it with your reaction requires concentration (explained in {@book chapter 4|RMR|3}). For example, if you are concentrating on the {@spell 蛛网术} spell and ready {@spell 魔法飞弹}, your {@spell 蛛网术} spell ends, and if you take damage before you release {@spell 魔法飞弹} with your reaction, your concentration might be broken.",
+								"A spell must have a casting time of 1 action to be readied, and holding onto the spell's magic until you release it with your reaction requires concentration (explained in {@book chapter 4|RMR|3}). For example, if you are concentrating on the {@spell 蛛網術} spell and ready {@spell 魔法飛彈}, your {@spell 蛛網術} spell ends, and if you take damage before you release {@spell 魔法飛彈} with your reaction, your concentration might be broken.",
 								{
 									"type": "inset",
 									"id": "07c",
@@ -1862,7 +1862,7 @@
 							"name": "Search",
 							"id": "07d",
 							"entries": [
-								"When you take the {@action 搜寻} action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ({@skill 察觉}) check or an Intelligence ({@skill 调查}) check."
+								"When you take the {@action 搜尋} action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ({@skill 察覺}) check or an Intelligence ({@skill 調查}) check."
 							]
 						},
 						{
@@ -1983,7 +1983,7 @@
 										"{@comicH1 SILENT BUT DEADLY.}"
 									]
 								},
-								"Combatants often try to escape their foes' notice by hiding, casting the {@spell 隐形术} spell, or lurking in darkness.",
+								"Combatants often try to escape their foes' notice by hiding, casting the {@spell 隱形術} spell, or lurking in darkness.",
 								"When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.",
 								"When a creature can't see you, you have advantage on attack rolls against it.",
 								"If you are hidden\u2014both unseen and unheard\u2014when you make an attack, you give away your location when the attack hits or misses."
@@ -2017,7 +2017,7 @@
 									"name": "Ranged Attacks in Close Combat",
 									"id": "08a",
 									"entries": [
-										"Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't {@condition 无力}.",
+										"Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't {@condition 無力}.",
 										{
 											"type": "inset",
 											"id": "08b",
@@ -2098,7 +2098,7 @@
 							"entries": [
 								"In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an opportunity attack.",
 								"You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before it leaves your reach.",
-								"You can avoid provoking an opportunity attack by taking the {@action 撤离} action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if {@highlight an explosion hurls you} out of a foe's reach or if gravity causes you to fall past an enemy.",
+								"You can avoid provoking an opportunity attack by taking the {@action 撤離} action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if {@highlight an explosion hurls you} out of a foe's reach or if gravity causes you to fall past an enemy.",
 								{
 									"type": "inset",
 									"id": "08f",
@@ -2123,7 +2123,7 @@
 							"name": "Two-Weapon Fighting",
 							"id": "090",
 							"entries": [
-								"When you take the {@action 攻击} action and attack with a light melee weapon that you're holding in one hand, you gain a bonus action you can use to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.",
+								"When you take the {@action 攻擊} action and attack with a light melee weapon that you're holding in one hand, you gain a bonus action you can use to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.",
 								"If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it."
 							]
 						}
@@ -2429,8 +2429,8 @@
 							"name": "Healing",
 							"id": "0a1",
 							"entries": [
-								"Unless it results in death, damage isn't permanent, and even death is reversible through powerful magic. Rest can restore a creature's hit points (as explained in {@book chapter 3|RMR|2}), and magical methods such as a {@spell 治疗伤势} spell or a {@item potion of healing} can remove damage in an instant.",
-								"When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. A creature that has died can't regain hit points until magic, such as a {@spell 回生术} spell, has restored it to life.",
+								"Unless it results in death, damage isn't permanent, and even death is reversible through powerful magic. Rest can restore a creature's hit points (as explained in {@book chapter 3|RMR|2}), and magical methods such as a {@spell 治療傷勢} spell or a {@item potion of healing} can remove damage in an instant.",
+								"When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. A creature that has died can't regain hit points until magic, such as a {@spell 回生術} spell, has restored it to life.",
 								{
 									"type": "inset",
 									"id": "0a2",
@@ -2572,7 +2572,7 @@
 									"id": "0ab",
 									"entries": [
 										"The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.",
-										"You can use your action to administer first aid to an {@condition 昏迷} creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ({@skill 医疗}) check.",
+										"You can use your action to administer first aid to an {@condition 昏迷} creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ({@skill 醫療}) check.",
 										"A {@b stable} creature doesn't make death saving throws, even though it has 0 hit points, but it does remain {@condition 昏迷}. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after {@dice 1d4} hours."
 									]
 								}
@@ -2773,9 +2773,9 @@
 									"name": "Long Jumps",
 									"id": "0b8",
 									"entries": [
-										"When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ({@skill 运动}) check to jump farther than you normally can.",
-										"This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ({@skill 运动}) check to clear a low obstacle (no taller than a quarter of the jump's distance). Otherwise, you hit it.",
-										"When you land in difficult terrain, you must succeed on a DC 10 Dexterity ({@skill 体操}) check to land on your feet. Otherwise, you land {@condition 伏地}."
+										"When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ({@skill 運動}) check to jump farther than you normally can.",
+										"This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ({@skill 運動}) check to clear a low obstacle (no taller than a quarter of the jump's distance). Otherwise, you hit it.",
+										"When you land in difficult terrain, you must succeed on a DC 10 Dexterity ({@skill 體操}) check to land on your feet. Otherwise, you land {@condition 伏地}."
 									]
 								},
 								{
@@ -2783,7 +2783,7 @@
 									"name": "High Jumps",
 									"id": "0b9",
 									"entries": [
-										"When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ({@skill 运动}) check to jump higher than you normally can."
+										"When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ({@skill 運動}) check to jump higher than you normally can."
 									]
 								},
 								{
@@ -2791,7 +2791,7 @@
 									"name": "Climbing and Swimming",
 									"id": "0ba",
 									"entries": [
-										"While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the DM's option, climbing a slippery surface or one with few handholds requires a successful Strength ({@skill 运动}) check. Similarly, gaining any distance in rough water might require a successful Strength ({@skill 运动}) check.",
+										"While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the DM's option, climbing a slippery surface or one with few handholds requires a successful Strength ({@skill 運動}) check. Similarly, gaining any distance in rough water might require a successful Strength ({@skill 運動}) check.",
 										{
 											"type": "inset",
 											"id": "0bb",
@@ -3194,7 +3194,7 @@
 										"**You add your Dexterity modifier, to a maximum of +2, to your Armor Class when you wear this armor."
 									]
 								},
-								"{@b Hide} is a crude armor made from thick furs and pelts. A {@b chain shirt} is made from interlocking metal rings and commonly worn under clothing. {@b Scale mail} consists of a leather coat and leggings covered with overlapping scales of metal. You have disadvantage on Dexterity ({@skill 隐匿}) checks while wearing scale mail. A {@b breastplate} is a fitted metal chest piece worn with supple leather."
+								"{@b Hide} is a crude armor made from thick furs and pelts. A {@b chain shirt} is made from interlocking metal rings and commonly worn under clothing. {@b Scale mail} consists of a leather coat and leggings covered with overlapping scales of metal. You have disadvantage on Dexterity ({@skill 隱匿}) checks while wearing scale mail. A {@b breastplate} is a fitted metal chest piece worn with supple leather."
 							]
 						},
 						{
@@ -3202,7 +3202,7 @@
 							"name": "Heavy Armor",
 							"id": "0d0",
 							"entries": [
-								"Heavy armor offers the best protection, and it requires extensive training to master. The fighter and the cleric are proficient with it. When you wear heavy armor, you don't apply your Dexterity modifier to your Armor Class. You also have disadvantage on Dexterity ({@skill 隐匿}) checks.",
+								"Heavy armor offers the best protection, and it requires extensive training to master. The fighter and the cleric are proficient with it. When you wear heavy armor, you don't apply your Dexterity modifier to your Armor Class. You also have disadvantage on Dexterity ({@skill 隱匿}) checks.",
 								{
 									"type": "table",
 									"colLabels": [
@@ -4189,7 +4189,7 @@
 											"name": "Healer's Kit",
 											"id": "0f2",
 											"entries": [
-												"This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ({@skill 医疗}) check.",
+												"This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ({@skill 醫療}) check.",
 												{
 													"type": "image",
 													"href": {
@@ -4733,7 +4733,7 @@
 							"name": "Spell Level",
 							"id": "109",
 							"entries": [
-								"Every spell in this set has a level from 0 to 3. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) {@spell 魔法飞弹} at 1st level and the devastating {@spell 火球术} at 3rd. (Spells of higher levels, up to 9th, exist in the world but aren't included in this set.) Cantrips\u2014simple but powerful spells that characters can cast almost by rote\u2014are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.",
+								"Every spell in this set has a level from 0 to 3. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) {@spell 魔法飛彈} at 1st level and the devastating {@spell 火球術} at 3rd. (Spells of higher levels, up to 9th, exist in the world but aren't included in this set.) Cantrips\u2014simple but powerful spells that characters can cast almost by rote\u2014are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.",
 								"Spell level and character level don't correspond directly. Typically, a character has to be at least 5th level, not 3rd level, to cast a 3rd-level spell."
 							]
 						},
@@ -4771,7 +4771,7 @@
 							"id": "10c",
 							"entries": [
 								"Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so. Thus, the character sheet for a spellcaster includes how many spell slots of each level the character can use at each character level. For example, at 3rd level, the wizard has four 1st-level slots and two 2nd-level slots.",
-								"When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively \"filling\" a slot with the spell. You can think of a spell slot as a groove of a certain size\u2014small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 3rd-level spell fits only in a slot that is at least 3rd level. So when the wizard casts {@spell 魔法飞弹}, a 1st-level spell, he or she spends a 1st-level slot and has three remaining.",
+								"When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively \"filling\" a slot with the spell. You can think of a spell slot as a groove of a certain size\u2014small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 3rd-level spell fits only in a slot that is at least 3rd level. So when the wizard casts {@spell 魔法飛彈}, a 1st-level spell, he or she spends a 1st-level slot and has three remaining.",
 								"Finishing a long rest restores any expended spell slots.",
 								"Some monsters have special abilities that let them cast spells without using spell slots.",
 								{
@@ -4797,8 +4797,8 @@
 									"name": "Casting a Spell at a Higher Level",
 									"id": "10e",
 									"entries": [
-										"When a spellcaster casts a spell using a slot that is a higher level than the spell, the spell assumes the higher level for that casting. For instance, if a wizard casts {@spell 魔法飞弹} using a 2nd-level slot, that {@spell 魔法飞弹} is 2nd level. The spell effectively expands to fill the slot.",
-										"Some spells, such as {@spell 魔法飞弹} and {@spell 治疗伤势}, have more powerful effects when cast at a higher level, as detailed in the spell's description."
+										"When a spellcaster casts a spell using a slot that is a higher level than the spell, the spell assumes the higher level for that casting. For instance, if a wizard casts {@spell 魔法飛彈} using a 2nd-level slot, that {@spell 魔法飛彈} is 2nd level. The spell effectively expands to fill the slot.",
+										"Some spells, such as {@spell 魔法飛彈} and {@spell 治療傷勢}, have more powerful effects when cast at a higher level, as detailed in the spell's description."
 									]
 								}
 							]
@@ -4919,9 +4919,9 @@
 							"name": "Range",
 							"id": "119",
 							"entries": [
-								"The target of a spell must be within the spell's range. For a spell like {@spell 魔法飞弹}, the target is a creature. For a spell like {@spell 火球术}, the target is the point in space where the ball of fire erupts.",
+								"The target of a spell must be within the spell's range. For a spell like {@spell 魔法飛彈}, the target is a creature. For a spell like {@spell 火球術}, the target is the point in space where the ball of fire erupts.",
 								"Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch.",
-								"Other spells, such as the {@spell 护盾术} spell, affect only you. These spells have a range of self.",
+								"Other spells, such as the {@spell 護盾術} spell, affect only you. These spells have a range of self.",
 								"Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you (see \"{@book Areas of Effect|RMR|3|Areas of Effect}\" later in the this chapter).",
 								"Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise.",
 								{
@@ -4955,7 +4955,7 @@
 									"name": "Verbal (V)",
 									"id": "11c",
 									"entries": [
-										"Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the {@spell 沉默术} spell, can't cast a spell with a verbal component.",
+										"Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the {@spell 沉默術} spell, can't cast a spell with a verbal component.",
 										{
 											"type": "inset",
 											"id": "11d",
@@ -5062,7 +5062,7 @@
 											"items": [
 												"{@b Casting another spell that requires concentration.} You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.",
 												"{@b Taking damage}. Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.",
-												"{@b Being incapacitated or killed.} You lose concentration on a spell if you are {@condition 无力} (as explained in {@book appendix A|RMR|4}) or if you die."
+												"{@b Being incapacitated or killed.} You lose concentration on a spell if you are {@condition 無力} (as explained in {@book appendix A|RMR|4}) or if you die."
 											]
 										}
 									]
@@ -5099,7 +5099,7 @@
 							"name": "Areas of Effect",
 							"id": "129",
 							"entries": [
-								"Spells such as {@spell 燃烧之手} and {@spell 火球术} cover an area, allowing them to affect multiple creatures at once.",
+								"Spells such as {@spell 燃燒之手} and {@spell 火球術} cover an area, allowing them to affect multiple creatures at once.",
 								"A spell's description specifies its area of effect, which typically has one of four different shapes: cone, cube, line, or sphere (each illustrated on the DM screen). Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.",
 								"A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide total cover, as explained in {@book chapter 2|RMR|1}.",
 								"The point of origin of an area of effect isn't included in the area, unless the area is a sphere.",
@@ -5170,7 +5170,7 @@
 							"id": "130",
 							"entries": [
 								"Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.",
-								"Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't {@condition 无力} (see {@book chapter 2|RMR|1})."
+								"Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't {@condition 無力} (see {@book chapter 2|RMR|1})."
 							]
 						},
 						{
@@ -5179,7 +5179,7 @@
 							"id": "131",
 							"entries": [
 								"The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect\u2014such as the highest bonus\u2014from those castings applies while their durations overlap.",
-								"For example, if two clerics cast {@spell 祝福术} on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.",
+								"For example, if two clerics cast {@spell 祝福術} on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.",
 								{
 									"type": "inset",
 									"name": "Schools of Magic",
@@ -5371,7 +5371,7 @@
 					"id": "138",
 					"entries": [
 						"Presented in alphabetical order, these spells are used by characters and monsters in this set.",
-						"Some of the spells cause {@b conditions}, including {@condition 魅惑}, {@condition 耳聋}, {@condition 恐惧}, {@condition 隐形}, {@condition 麻痹}, {@condition 伏地}, {@condition 束缚}, and {@condition 昏迷}. Consult {@book appendix A|RMR|4} to learn a condition's effects in the game.",
+						"Some of the spells cause {@b conditions}, including {@condition 魅惑}, {@condition 耳聾}, {@condition 恐懼}, {@condition 隱形}, {@condition 麻痹}, {@condition 伏地}, {@condition 束縛}, and {@condition 昏迷}. Consult {@book appendix A|RMR|4} to learn a condition's effects in the game.",
 						{
 							"type": "entries",
 							"name": "Aid",
@@ -5517,7 +5517,7 @@
 										"{@b Duration}: Concentration, up to 1 minute"
 									]
 								},
-								"Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with {@sense 盲视}, or can see through illusions, as with {@sense 真实视觉}.",
+								"Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with {@sense 盲視}, or can see through illusions, as with {@sense 真實視覺}.",
 								"{@comic If I wanna see blurry, shifting, wavering people in front of me, I'll just keep drinking.}"
 							]
 						},
@@ -5796,7 +5796,7 @@
 									]
 								},
 								"{@b Duration}: Concentration, up to 10 minutes",
-								"Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with {@sense 黑暗视觉} can't see through this darkness, and no nonmagical light can illuminate it.",
+								"Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with {@sense 黑暗視覺} can't see through this darkness, and no nonmagical light can illuminate it.",
 								"If the point you choose is on an object you are holding or one that is not being worn or carried, the darkness emanates from the object and moves with it. Covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.",
 								"If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the entire area of light is dispelled.",
 								"{@comic Not as good as blasting monsters, but it has its place. Getting the drop on some sucker and gutting 'em is pretty sweet.}"
@@ -6211,7 +6211,7 @@
 										"{@b Duration}: Concentration, up to 1 hour"
 									]
 								},
-								"A creature you touch becomes {@condition 隐形} until the spell ends. Anything the target is wearing or carrying is {@condition 隐形} as long as it is on the target's person. The spell ends early for a target that attacks or casts a spell.",
+								"A creature you touch becomes {@condition 隱形} until the spell ends. Anything the target is wearing or carrying is {@condition 隱形} as long as it is on the target's person. The spell ends early for a target that attacks or casts a spell.",
 								{
 									"type": "entries",
 									"id": "176",
@@ -6254,7 +6254,7 @@
 										"{@b Duration}: Instantaneous"
 									]
 								},
-								"You touch a creature and can end either one disease or one condition afflicting it. The condition can be {@condition 目盲}, {@condition 耳聋}, {@condition 麻痹}, or {@condition 中毒}.",
+								"You touch a creature and can end either one disease or one condition afflicting it. The condition can be {@condition 目盲}, {@condition 耳聾}, {@condition 麻痹}, or {@condition 中毒}.",
 								{
 									"type": "inset",
 									"id": "179",
@@ -6741,13 +6741,13 @@
 									"type": "list",
 									"style": "list-hang-notitle",
 									"items": [
-										"{@b Casting Time}: 1 reaction, which you take when you are hit by an attack or targeted by the {@spell 魔法飞弹} spell",
+										"{@b Casting Time}: 1 reaction, which you take when you are hit by an attack or targeted by the {@spell 魔法飛彈} spell",
 										"{@b Range}: Self",
 										"{@b Components}: V, S",
 										"{@b Duration}: 1 round"
 									]
 								},
-								"An {@condition 隐形} barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from {@spell 魔法飞弹}.",
+								"An {@condition 隱形} barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from {@spell 魔法飛彈}.",
 								"{@comic The spellcasting equivalent of a {@b jockstrap}: useful in the right circumstances, but way cooler if you can do your thing without needing it\u2014and eventually it'll need a wash.}"
 							]
 						},
@@ -6809,7 +6809,7 @@
 										"{@b Duration}: Concentration, up to 10 minutes"
 									]
 								},
-								"For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are {@condition 耳聋} while entirely inside it. Casting a spell that includes a verbal component is impossible there.",
+								"For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are {@condition 耳聾} while entirely inside it. Casting a spell that includes a verbal component is impossible there.",
 								"{@comic I like busting this one out on enemy spellcasters and then throwing up the universal sign language for \"Oops! Guess you're f***ed!\"}"
 							]
 						},
@@ -7114,8 +7114,8 @@
 								},
 								"You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.",
 								"If the webs are not anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.",
-								"Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is {@condition 束缚} as long as it remains in the webs or until it breaks free.",
-								"A creature {@condition 束缚} by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer {@condition 束缚}.",
+								"Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is {@condition 束縛} as long as it remains in the webs or until it breaks free.",
+								"A creature {@condition 束縛} by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer {@condition 束縛}.",
 								"The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing {@dice 2d4} fire damage to any creature that starts its turn in the fire.",
 								"{@comic I'm not here to tell anyone {@b where} and {@b when} they should blow their personal sticky load, y'know? Th-th-that's a personal choice.}",
 								"{@comic Everybody needs to make their own decisions.}"
@@ -7130,7 +7130,7 @@
 			"name": "Appendix A: Conditions",
 			"id": "1ac",
 			"entries": [
-				"Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as {@condition 目盲}, are impairments, but a few, such as {@condition 隐形}, can be advantageous.",
+				"Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as {@condition 目盲}, are impairments, but a few, such as {@condition 隱形}, can be advantageous.",
 				"A condition lasts either until it is countered (the {@condition 伏地} condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.",
 				"If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.",
 				"The following definitions specify what happens to a creature while it is subjected to a condition.",
@@ -7179,7 +7179,7 @@
 						{
 							"type": "list",
 							"items": [
-								"A {@condition 耳聋} creature can't hear and automatically fails any ability check that requires hearing."
+								"A {@condition 耳聾} creature can't hear and automatically fails any ability check that requires hearing."
 							]
 						}
 					]
@@ -7241,7 +7241,7 @@
 						{
 							"type": "list",
 							"items": [
-								"A {@condition 恐惧} creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.",
+								"A {@condition 恐懼} creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.",
 								"The creature can't willingly move closer to the source of its fear."
 							]
 						}
@@ -7265,8 +7265,8 @@
 							"type": "list",
 							"items": [
 								"A {@condition 被擒} creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
-								"The condition ends if the grappler is {@condition 无力} (see the condition).",
-								"The condition also ends if an effect removes the {@condition 被擒} creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the {@spell 雷鸣波} spell."
+								"The condition ends if the grappler is {@condition 無力} (see the condition).",
+								"The condition also ends if an effect removes the {@condition 被擒} creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the {@spell 雷鳴波} spell."
 							]
 						}
 					]
@@ -7279,7 +7279,7 @@
 						{
 							"type": "list",
 							"items": [
-								"An {@condition 无力} creature can't take actions or reactions."
+								"An {@condition 無力} creature can't take actions or reactions."
 							]
 						}
 					]
@@ -7292,7 +7292,7 @@
 						{
 							"type": "list",
 							"items": [
-								"An {@condition 隐形} creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.",
+								"An {@condition 隱形} creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.",
 								"Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage."
 							]
 						}
@@ -7315,7 +7315,7 @@
 						{
 							"type": "list",
 							"items": [
-								"A {@condition 麻痹} creature is {@condition 无力} (see the condition) and can't move or speak.",
+								"A {@condition 麻痹} creature is {@condition 無力} (see the condition) and can't move or speak.",
 								"The creature automatically fails Strength and Dexterity saving throws.",
 								"Attack rolls against the creature have advantage.",
 								"Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
@@ -7341,7 +7341,7 @@
 							"type": "list",
 							"items": [
 								"A {@condition 石化} creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.",
-								"The creature is {@condition 无力} (see the condition), can't move or speak, and is unaware of its surroundings.",
+								"The creature is {@condition 無力} (see the condition), can't move or speak, and is unaware of its surroundings.",
 								"Attack rolls against the creature have advantage.",
 								"The creature automatically fails Strength and Dexterity saving throws.",
 								"The creature has resistance to all damage.",
@@ -7395,7 +7395,7 @@
 						{
 							"type": "list",
 							"items": [
-								"A {@condition 束缚} creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
+								"A {@condition 束縛} creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
 								"Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.",
 								"The creature has disadvantage on Dexterity saving throws."
 							]
@@ -7419,7 +7419,7 @@
 						{
 							"type": "list",
 							"items": [
-								"A {@condition 震慑} creature is {@condition 无力} (see the condition), can't move, and can speak only falteringly.",
+								"A {@condition 震懾} creature is {@condition 無力} (see the condition), can't move, and can speak only falteringly.",
 								"The creature automatically fails Strength and Dexterity saving throws.",
 								"Attack rolls against the creature have advantage."
 							]
@@ -7443,7 +7443,7 @@
 						{
 							"type": "list",
 							"items": [
-								"An {@condition 昏迷} creature is {@condition 无力} (see the condition), can't move or speak, and is unaware of its surroundings.",
+								"An {@condition 昏迷} creature is {@condition 無力} (see the condition), can't move or speak, and is unaware of its surroundings.",
 								"The creature drops whatever it's holding and falls {@condition 伏地}.",
 								"The creature automatically fails Strength and Dexterity saving throws.",
 								"Attack rolls against the creature have advantage.",

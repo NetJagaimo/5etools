@@ -995,7 +995,7 @@
 											"name": "Book Attack",
 											"id": "04c",
 											"entries": [
-												"One of the heaps of books is a {@creature swarm of animated books|CM}. As the characters move through the room, the swarm knocks one of the 10-foot-wide freestanding sections of bookshelf over onto the characters. Any creatures in the affected area must succeed on a DC 15 Dexterity saving throw or be knocked {@condition 伏地} and {@condition 束缚} by the fallen shelf. A {@condition 束缚} creature can use an action to make a DC 13 Strength ({@skill Athletics}) check. On a success, it frees itself. {@condition 束缚} creatures are also freed if the shelf is lifted with a successful DC 15 Strength ({@skill Athletics}) check."
+												"One of the heaps of books is a {@creature swarm of animated books|CM}. As the characters move through the room, the swarm knocks one of the 10-foot-wide freestanding sections of bookshelf over onto the characters. Any creatures in the affected area must succeed on a DC 15 Dexterity saving throw or be knocked {@condition 伏地} and {@condition 束縛} by the fallen shelf. A {@condition 束縛} creature can use an action to make a DC 13 Strength ({@skill Athletics}) check. On a success, it frees itself. {@condition 束縛} creatures are also freed if the shelf is lifted with a successful DC 15 Strength ({@skill Athletics}) check."
 											]
 										},
 										{
@@ -1204,7 +1204,7 @@
 												"This end of the building is an arboretum with open, arched walls. Flowering shrubs and small trees grow between paved paths that meet in a semicircular patio. There's no sun, but two glowing globes hang above the plants, bathing them in light. There are colorful blossoms everywhere, filling the air with their perfume."
 											]
 										},
-										"Two {@condition 隐形} {@creature Faerie Dragon (Red)||orange faerie dragons} are perched in the trees. They are mischievous creatures, always looking for fun, but the homunculi and the cats provide little entertainment, so they hope to keep the characters in the arboretum for as long as possible so they can play with them. Giggling incessantly, they fly toward the characters, use their Euphoria Breath, and flit out of danger, still {@condition 隐形}. If they are attacked, they {@action 撤离} and retreat to a safe place, becoming {@condition 隐形} again if their concentration is broken.",
+										"Two {@condition 隱形} {@creature Faerie Dragon (Red)||orange faerie dragons} are perched in the trees. They are mischievous creatures, always looking for fun, but the homunculi and the cats provide little entertainment, so they hope to keep the characters in the arboretum for as long as possible so they can play with them. Giggling incessantly, they fly toward the characters, use their Euphoria Breath, and flit out of danger, still {@condition 隱形}. If they are attacked, they {@action 撤離} and retreat to a safe place, becoming {@condition 隱形} again if their concentration is broken.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -1481,7 +1481,7 @@
 					"name": "Conclusion",
 					"id": "082",
 					"entries": [
-						"When the characters return to the study room in Candlekeep, they find Matreous's body sprawled on the floor and the imp figurine missing. When the imp was taken from the mansion in its figurine form, the enchantment binding it ended, allowing it to sting and kill Matreous. The {@creature imp} is now {@condition 隐形} and hiding in a corner of Matreous's study. It attacks the first creature that exits the mansion. If the characters defeat the imp, it disappears in a cloud of black smoke.",
+						"When the characters return to the study room in Candlekeep, they find Matreous's body sprawled on the floor and the imp figurine missing. When the imp was taken from the mansion in its figurine form, the enchantment binding it ended, allowing it to sting and kill Matreous. The {@creature imp} is now {@condition 隱形} and hiding in a corner of Matreous's study. It attacks the first creature that exits the mansion. If the characters defeat the imp, it disappears in a cloud of black smoke.",
 						"Any treasure, books, specimens, or weapons the characters acquired while in the mansion remain in their possession. Anything else taken from the mansion evaporates into smoke as they pass through the doorway.",
 						{
 							"type": "entries",
@@ -3978,7 +3978,7 @@
 											"id": "172",
 											"entries": [
 												"The miners-turned-meenlocks used remnants of their knowledge to rig explosives on the four pillars in this room. Attached to each pillar is a stick of dynamite with a long fuse leading to a plunger trigger. Any character who has a passive Wisdom ({@skill Perception}) score of 18 or higher spots a candle-like object attached to each pillar, partially hidden beneath the moss. A character who closely examines a pillar spots the dynamite stick and the fuse leading from it with a successful DC 14 Wisdom ({@skill Perception}) check. A character can cut a fuse as an action (no ability check required). If a dynamite stick takes damage from any source, it explodes (as described below).",
-												"The meenlocks trigger the explosives as a last resort. If a meenlock starts its turn with 10 hit points or fewer, it moves to the nearest trigger, uses its action to set off the explosion, and then uses its Shadow Teleport bonus action to escape. The pillar is destroyed in the explosion. The last meenlock detonates any remaining pillars before it flees. Any creature within 5 feet of an exploding dynamite stick must make a DC 12 Dexterity saving throw, taking 10 ({@dice 3d6}) bludgeoning damage on a failed save, or half as much damage on a successful one. If all four pillars are destroyed, the cavern's ceiling partially collapses. Each creature in the cavern when the collapse occurs must make a DC 15 Dexterity saving throw. On a failed save, the creature takes 22 ({@dice 4d10}) bludgeoning damage, falls {@condition 伏地}, and is {@condition 束缚} by the rubble and unable to stand up; on a successful save, the creature takes half as much damage and isn't trapped in the rubble or knocked {@condition 伏地}. A creature can use its action to attempt to free itself or another creature trapped under the rubble within its reach, doing so with a successful DC 20 Strength ({@skill Athletics}) check. Meenlocks that flee return the next night to see what they've caught in their trap."
+												"The meenlocks trigger the explosives as a last resort. If a meenlock starts its turn with 10 hit points or fewer, it moves to the nearest trigger, uses its action to set off the explosion, and then uses its Shadow Teleport bonus action to escape. The pillar is destroyed in the explosion. The last meenlock detonates any remaining pillars before it flees. Any creature within 5 feet of an exploding dynamite stick must make a DC 12 Dexterity saving throw, taking 10 ({@dice 3d6}) bludgeoning damage on a failed save, or half as much damage on a successful one. If all four pillars are destroyed, the cavern's ceiling partially collapses. Each creature in the cavern when the collapse occurs must make a DC 15 Dexterity saving throw. On a failed save, the creature takes 22 ({@dice 4d10}) bludgeoning damage, falls {@condition 伏地}, and is {@condition 束縛} by the rubble and unable to stand up; on a successful save, the creature takes half as much damage and isn't trapped in the rubble or knocked {@condition 伏地}. A creature can use its action to attempt to free itself or another creature trapped under the rubble within its reach, doing so with a successful DC 20 Strength ({@skill Athletics}) check. Meenlocks that flee return the next night to see what they've caught in their trap."
 											]
 										},
 										{
@@ -4072,7 +4072,7 @@
 													"name": "Telepathic Torment",
 													"id": "17d",
 													"entries": [
-														"Up to four meenlocks can telepathically torment one {@condition 无力} creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the {@condition 恐惧} condition. If the creature is susceptible and remains {@condition 无力} for 1 hour, the creature must make a Wisdom saving throw, taking 10 ({@dice 3d6}) psychic damage on a failed save, or half as much damage on a successful one. The save DC is equal to 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't {@condition 无力} during it. The process can be repeated. A humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a {@spell wish} spell or divine intervention can restore a transformed creature to its former state."
+														"Up to four meenlocks can telepathically torment one {@condition 無力} creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the {@condition 恐懼} condition. If the creature is susceptible and remains {@condition 無力} for 1 hour, the creature must make a Wisdom saving throw, taking 10 ({@dice 3d6}) psychic damage on a failed save, or half as much damage on a successful one. The save DC is equal to 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't {@condition 無力} during it. The process can be repeated. A humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a {@spell wish} spell or divine intervention can restore a transformed creature to its former state."
 													]
 												}
 											]
@@ -4250,7 +4250,7 @@
 								{
 									"type": "list",
 									"items": [
-										"Varnyr speaks Common and Elvish, and she has {@sense 黑暗视觉} out to a range of 60 feet. She has advantage on saving throws against being {@condition 魅惑}, and magic can't put her to sleep.",
+										"Varnyr speaks Common and Elvish, and she has {@sense 黑暗視覺} out to a range of 60 feet. She has advantage on saving throws against being {@condition 魅惑}, and magic can't put her to sleep.",
 										"Instead of a rapier, Varnyr wields a cane and can use an action to make two melee weapon attacks with it: +3 to hit, reach 5 ft., one target. {@i Hit}: 2 ({@dice 1d4}) bludgeoning damage."
 									]
 								},
@@ -4403,7 +4403,7 @@
 								{
 									"type": "list",
 									"items": [
-										"K'Tulah speaks Common and Druidic, and she has {@sense 黑暗视觉} out to a range of 60 feet.",
+										"K'Tulah speaks Common and Druidic, and she has {@sense 黑暗視覺} out to a range of 60 feet.",
 										"When K'Tulah moves on her turn in combat, she can double her speed until the end of the turn. Once she uses this ability, she can't use it again until she moves 0 feet on one of her turns.",
 										"As an action, K'Tulah can make a melee weapon attack with her claws: +2 to hit, reach 5 ft., one target. {@i Hit}: 2 ({@dice 1d4}) slashing damage."
 									]
@@ -4658,7 +4658,7 @@
 												],
 												[
 													"5",
-													"Shemshime's foul magic manifests as a random character's worst nightmare. That character must make a DC 12 Intelligence saving throw. On a failed save, the character takes 9 ({@dice 2d8}) psychic damage and is {@condition 恐惧} of the manifestation, believing it to be real. The manifested nightmare lasts for up to 1 minute, follows the character around, and can't be harmed. The character must repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking 9 ({@dice 2d8}) psychic damage on a failed save."
+													"Shemshime's foul magic manifests as a random character's worst nightmare. That character must make a DC 12 Intelligence saving throw. On a failed save, the character takes 9 ({@dice 2d8}) psychic damage and is {@condition 恐懼} of the manifestation, believing it to be real. The manifested nightmare lasts for up to 1 minute, follows the character around, and can't be harmed. The character must repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking 9 ({@dice 2d8}) psychic damage on a failed save."
 												],
 												[
 													"6",
@@ -5939,7 +5939,7 @@
 														"A kobold with white scales and purple eyes is fiddling with the lock on one of the guest room doors. He wears a patchwork dress and is quietly cursing and whispering."
 													]
 												},
-												"Glitter, a tiefling {@creature spy} transformed into a kobold by the hags (see \"{@area Coven Victims|20c|x}\" earlier in the adventure), is working late for his masters. He is trying to fix a broken lock, though the characters might assume he is trying to break into the room by picking the lock. He has {@sense 黑暗视觉} out to a range of 60 feet and doesn't need light to do his work.",
+												"Glitter, a tiefling {@creature spy} transformed into a kobold by the hags (see \"{@area Coven Victims|20c|x}\" earlier in the adventure), is working late for his masters. He is trying to fix a broken lock, though the characters might assume he is trying to break into the room by picking the lock. He has {@sense 黑暗視覺} out to a range of 60 feet and doesn't need light to do his work.",
 												"Glitter immediately surrenders if confronted and tries to explain himself. If any character treats him kindly or seems to be heroic, he might tell the characters the truth of his transformation and beg their help to undo the curse. Glitter knows what happened to Sylvarie, as well as the layout of the bathhouse and the tower. He also knows that the hags store a selection of their cursed paintings in the servants' quarters in the tower ({@area area T17|245|x})."
 											]
 										}
@@ -6655,7 +6655,7 @@
 											"name": "Treasure",
 											"id": "26e",
 											"entries": [
-												"The objects used by the malisons are a {@item chime of opening} and a {@item lantern of revealing} (which they use as a precaution against {@condition 隐形} enemies). After the malison strikes the chime for the first time, the item has 5 uses left. The lantern has 2 hours of fuel remaining.",
+												"The objects used by the malisons are a {@item chime of opening} and a {@item lantern of revealing} (which they use as a precaution against {@condition 隱形} enemies). After the malison strikes the chime for the first time, the item has 5 uses left. The lantern has 2 hours of fuel remaining.",
 												"Assuming the characters interrupted the ritual, the lid of the sarcophagus is only slightly open, and the chime must be struck once more to open the lid fully. Inside the sarcophagus are two items of great significance to the yuan-ti: a suit of {@item serpent scale armor|CM} and a {@item serpent's fang|CM} (both described below)."
 											]
 										}
@@ -7999,7 +7999,7 @@
 										"Moss-covered trees and overgrown brush suddenly thin out, giving way to a small glen not more than a hundred feet across. This area is peppered with colorful mushrooms growing virtually on top of one another, some of the clusters more than three feet high. A warm glow emanates from tiny lanterns that hang from each mushroom. Jutting up from the caps of the mushrooms, chimneys made of petrified bark let out wisps of acorn-scented smoke. These mushrooms appear to be homes\u2014dozens of them\u2014scattered around the clearing."
 									]
 								},
-								"Moments before the characters emerged from the forest, the pixies and sprites that live in Dewlight detected their approach, turned {@condition 隐形} for safety's sake, and fled into their homes for good measure. The lone exception is Wheeldoli, an elderly {@creature sprite} whose curiosity outweighs his sense of caution. After a moment, he steps out from behind the stem of a mushroom and introduces himself:",
+								"Moments before the characters emerged from the forest, the pixies and sprites that live in Dewlight detected their approach, turned {@condition 隱形} for safety's sake, and fled into their homes for good measure. The lone exception is Wheeldoli, an elderly {@creature sprite} whose curiosity outweighs his sense of caution. After a moment, he steps out from behind the stem of a mushroom and introduces himself:",
 								{
 									"type": "insetReadaloud",
 									"id": "2ec",
@@ -8007,7 +8007,7 @@
 										"\"Greetings, big folk. I, Wheeldoli, welcome you to Dewlight and suggest you be on your way.\""
 									]
 								},
-								"Wheeldoli is prepared to turn {@condition 隐形} and make himself scarce at the first sign of aggressiveness, but if the characters start by mentioning that they have spoken with Feynor, or if they talk to him about the book they discovered, the sprite becomes friendly and contributes some additional details about their situation.",
+								"Wheeldoli is prepared to turn {@condition 隱形} and make himself scarce at the first sign of aggressiveness, but if the characters start by mentioning that they have spoken with Feynor, or if they talk to him about the book they discovered, the sprite becomes friendly and contributes some additional details about their situation.",
 								"As a scholar among his kind, Wheeldoli knows about some of the gods revered by the big folk, and he shares his supposition about the nighttime thunderclaps and lightning strikes in the distance. \"Signs of a battle brewing,\" he says. A group of vicious predators have been stalking through the forest of late, and Wheeldoli fears they are disciples of Malar the Beast Lord (see the \"{@area Cult of Malar|2f9|x}\" section later in the adventure). The disturbances to the north, he says, seem to be coming from the vicinity of the Pool of Eternal Spring, a hallowed site associated with a lesser deity known as Lurue the Unicorn. The sprite says he would not be surprised to find that Malar's minions are behind that turn of events as well.",
 								"In conclusion, Wheeldoli injects some urgency into the situation. \"Whatever's happening at the pool is likely to reach its peak on the winter solstice, which is at most a day or two from now.\"",
 								"When the characters have learned all they can from Wheeldoli, the sprite directs them to a narrow gravel path that skirts the community and then continues northward through the underbrush.",
@@ -8019,7 +8019,7 @@
 							"name": "Webbed Path",
 							"id": "2ed",
 							"entries": [
-								"The pebbled path leading out of Dewlight soon turns into dirt, and the area on either side of it is sparsely covered with underbrush. After the characters walk for a few more minutes, they discover that the road ahead is covered in large patches of spiderwebs. The webbed path, 20 feet wide and 60 feet long, is difficult terrain. A creature that enters the area for the first time on a turn or starts its turn there must succeed on a DC 12 Dexterity saving throw or become {@condition 束缚} by the webs. A {@condition 束缚} creature can use its action to try to escape, doing so with a successful DC 12 Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check. Each 10-foot square of webbing has AC 10, 15 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.",
+								"The pebbled path leading out of Dewlight soon turns into dirt, and the area on either side of it is sparsely covered with underbrush. After the characters walk for a few more minutes, they discover that the road ahead is covered in large patches of spiderwebs. The webbed path, 20 feet wide and 60 feet long, is difficult terrain. A creature that enters the area for the first time on a turn or starts its turn there must succeed on a DC 12 Dexterity saving throw or become {@condition 束縛} by the webs. A {@condition 束縛} creature can use its action to try to escape, doing so with a successful DC 12 Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check. Each 10-foot square of webbing has AC 10, 15 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.",
 								"Four cowardly {@creature Ettercap||ettercaps} are lurking nearby, waiting for their webs to snag some prey. At the sound of intruders, they scurry into the underbrush and {@action 躲藏}, staying 30 feet away from the webbed path, loosely spread out. The ettercaps are ambush hunters and run from a prolonged fight."
 							]
 						},
@@ -8471,32 +8471,32 @@
 												[
 													"Chicken Peach",
 													"Baff Boltlock",
-													"Rock gnome {@creature cultist} with {@sense 黑暗视觉} 60 ft.; speaks Common and Gnomish"
+													"Rock gnome {@creature cultist} with {@sense 黑暗視覺} 60 ft.; speaks Common and Gnomish"
 												],
 												[
 													"Cow Cotton",
 													"Patch Varnast",
-													"Half-elf {@creature cultist} with {@sense 黑暗视觉} 60 ft.; speaks Common and Elvish"
+													"Half-elf {@creature cultist} with {@sense 黑暗視覺} 60 ft.; speaks Common and Elvish"
 												],
 												[
 													"Donkey Biscuit",
 													"Merla One-Tusk",
-													"Half-orc {@creature cultist} with {@sense 黑暗视觉} 60 ft.; speaks Common and Orc"
+													"Half-orc {@creature cultist} with {@sense 黑暗視覺} 60 ft.; speaks Common and Orc"
 												],
 												[
 													"Duck Bean",
 													"Trop Thunderhew",
-													"Shield dwarf {@creature cultist} with {@sense 黑暗视觉} 60 ft.; speaks Common and Dwarvish"
+													"Shield dwarf {@creature cultist} with {@sense 黑暗視覺} 60 ft.; speaks Common and Dwarvish"
 												],
 												[
 													"Goat Beet",
 													"Stekk",
-													"Half-orc {@creature cultist} with {@sense 黑暗视觉} 60 ft.; speaks Common and Orc"
+													"Half-orc {@creature cultist} with {@sense 黑暗視覺} 60 ft.; speaks Common and Orc"
 												],
 												[
 													"Horse Egg",
 													"Glynn Yamanachi",
-													"Half-elf {@creature cultist} with {@sense 黑暗视觉} 60 ft.; speaks Common and Elvish"
+													"Half-elf {@creature cultist} with {@sense 黑暗視覺} 60 ft.; speaks Common and Elvish"
 												],
 												[
 													"Pig Wheat",
@@ -8683,7 +8683,7 @@
 												"The ceiling is braced by four wooden pillars, between which are set four pairs of stocky wooden chairs facing inward. Each chair is bolted to the floor and fitted with two lengths of rope. Four of the chairs have people in custodial uniforms tied to them\u2014two half-orcs, a half-elf, and a dwarf."
 											]
 										},
-										"Four Livestock {@creature Cultist||cultists} have tied themselves into the chairs in preparation for blastoff, with the ropes acting as seat belts. All four are unarmed, {@condition 束缚}, and unable to free themselves. They go by the names Donkey Biscuit (the first half-orc), Duck Bean (the dwarf), Goat Beet (the second half-orc), and Horse Egg (the half-elf).",
+										"Four Livestock {@creature Cultist||cultists} have tied themselves into the chairs in preparation for blastoff, with the ropes acting as seat belts. All four are unarmed, {@condition 束縛}, and unable to free themselves. They go by the names Donkey Biscuit (the first half-orc), Duck Bean (the dwarf), Goat Beet (the second half-orc), and Horse Egg (the half-elf).",
 										"Despite their helplessness, the cultists are uncooperative. They refuse to talk about why they're here, divulge Stonky's whereabouts, or shed light on his intentions. Only if magic is used to coerce them do they reveal what they know:",
 										{
 											"type": "list",
@@ -8968,7 +8968,7 @@
 												"Beyond the double door is a dark, twenty-foot-wide hallway with three iron doors leading off it: two on the right side of the hall and one on the left."
 											]
 										},
-										"Stonky has reprogrammed the illusion magic that protects this hallway, which functions similarly to a {@spell programmed illusion} spell. The magic triggers when any creature except a member of the Livestock enters through the double door, creating the illusion of a giant silverfish at the east end of the hall, beyond the range of most characters' {@sense 黑暗视觉}. As one or more characters enter the hall, the monster scuttles toward them threateningly:",
+										"Stonky has reprogrammed the illusion magic that protects this hallway, which functions similarly to a {@spell programmed illusion} spell. The magic triggers when any creature except a member of the Livestock enters through the double door, creating the illusion of a giant silverfish at the east end of the hall, beyond the range of most characters' {@sense 黑暗視覺}. As one or more characters enter the hall, the monster scuttles toward them threateningly:",
 										{
 											"type": "insetReadaloud",
 											"id": "339",
@@ -9686,7 +9686,7 @@
 									"name": "Cloud Giant Ghosts",
 									"id": "381",
 									"entries": [
-										"The keep is haunted by the ghosts of cloud giants who perished long ago (see {@adventure the end of the adventure|CM|12|{@creature Cloud Giant Ghost|CM} Huge undead Armor Class 15 (natural armor) Hit Points 104 (16d12) Speed 0 ft., fly 40 ft. (hover) STR 27 (+8) DEX 11 (+1) CON 10 (+0) INT 12 (+1) WIS 16 (+3) CHA 17 (+3) Saving Throws Wis +7, Cha +7 Skills {@skill Perception} +7 Damage Resistances cold Damage Immunities necrotic, poison Condition Immunities {@condition 魅惑}, {@condition 力竭}, {@condition 恐惧}, {@condition 被擒}, {@condition 麻痹}, {@condition 石化}, {@condition 中毒}, {@condition 伏地}, {@condition 束缚} Senses {@sense 黑暗视觉} 120 ft., passive Perception 17 Languages Common, Giant Challenge 9 (5,000 XP) {@b Proficiency Bonus} +4 Ethereal Sight. The ghost can see 120 feet into the Ethereal Plane when it is on the Material Plane, and vice versa. Incorporeal Movement. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Regeneration. The ghost regains 10 hit points at the start of its turn. If the ghost takes radiant damage or damage from a magic weapon, this trait doesn't function at the start of the ghost's next turn. The ghost dies only if it starts its turn with 0 hit points and doesn't regenerate. Actions Multiattack. The ghost makes two melee attacks. Spectral Weapon. {@atk mw} +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) force damage. Etherealness. The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane. Spellcasting. The ghost casts one of the following spells, using Charisma as the spellcasting ability and requiring no material components: At will: {@spell fog cloud} 3/day: {@spell telekinesis} 1/day: {@spell control weather} Wind Howl (Recharge 6). The ghost emits a dreadful howl that summons a cold, biting wind. This wind engulfs up to three creatures of the ghost's choice that it can see within 60 feet of it. Each target is pulled up to 20 feet toward the ghost and must make a DC 15 Constitution saving throw, taking 16 (3d10) cold damage on a failed save, or half as much damage on a successful one.} for the {@creature cloud giant ghost|CM} stat block). These ghosts are indifferent toward the characters until some action on the characters' part causes the ghosts to turn hostile. What actions cause the ghosts to turn hostile vary from one encounter to the next. Characters who are cautious can avoid combat with the ghosts by not doing anything to anger them."
+										"The keep is haunted by the ghosts of cloud giants who perished long ago (see {@adventure the end of the adventure|CM|12|{@creature Cloud Giant Ghost|CM} Huge undead Armor Class 15 (natural armor) Hit Points 104 (16d12) Speed 0 ft., fly 40 ft. (hover) STR 27 (+8) DEX 11 (+1) CON 10 (+0) INT 12 (+1) WIS 16 (+3) CHA 17 (+3) Saving Throws Wis +7, Cha +7 Skills {@skill Perception} +7 Damage Resistances cold Damage Immunities necrotic, poison Condition Immunities {@condition 魅惑}, {@condition 力竭}, {@condition 恐懼}, {@condition 被擒}, {@condition 麻痹}, {@condition 石化}, {@condition 中毒}, {@condition 伏地}, {@condition 束縛} Senses {@sense 黑暗視覺} 120 ft., passive Perception 17 Languages Common, Giant Challenge 9 (5,000 XP) {@b Proficiency Bonus} +4 Ethereal Sight. The ghost can see 120 feet into the Ethereal Plane when it is on the Material Plane, and vice versa. Incorporeal Movement. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Regeneration. The ghost regains 10 hit points at the start of its turn. If the ghost takes radiant damage or damage from a magic weapon, this trait doesn't function at the start of the ghost's next turn. The ghost dies only if it starts its turn with 0 hit points and doesn't regenerate. Actions Multiattack. The ghost makes two melee attacks. Spectral Weapon. {@atk mw} +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) force damage. Etherealness. The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane. Spellcasting. The ghost casts one of the following spells, using Charisma as the spellcasting ability and requiring no material components: At will: {@spell fog cloud} 3/day: {@spell telekinesis} 1/day: {@spell control weather} Wind Howl (Recharge 6). The ghost emits a dreadful howl that summons a cold, biting wind. This wind engulfs up to three creatures of the ghost's choice that it can see within 60 feet of it. Each target is pulled up to 20 feet toward the ghost and must make a DC 15 Constitution saving throw, taking 16 (3d10) cold damage on a failed save, or half as much damage on a successful one.} for the {@creature cloud giant ghost|CM} stat block). These ghosts are indifferent toward the characters until some action on the characters' part causes the ghosts to turn hostile. What actions cause the ghosts to turn hostile vary from one encounter to the next. Characters who are cautious can avoid combat with the ghosts by not doing anything to anger them."
 									]
 								}
 							]
@@ -11407,7 +11407,7 @@
 											"items": [
 												"Kharbek speaks Common and Dwarvish.",
 												"They have 1 hit point and 5 levels of {@condition 力竭}.",
-												"They have {@sense 黑暗视觉} out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against being {@condition 中毒}."
+												"They have {@sense 黑暗視覺} out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against being {@condition 中毒}."
 											]
 										},
 										"Kharbek is the only survivor of a party of adventurers captured by the Order of the Immortal Lotus. If questioned, Kharbek is able to recall how a member of the Immortal Lotus disguised as a beggar lured the group to the temple, where the adventurers were tortured one by one. Kharbek's weapons rest on a nearby table. If their wounds are healed and levels of {@condition 力竭} removed, Kharbek offers to fight alongside the characters as a sign of gratitude.",
@@ -14063,7 +14063,7 @@
 												"Its breath weapon is a 60-foot cone of abrasive sand instead of steam that deals slashing damage instead of fire damage."
 											]
 										},
-										"{@creature Dragon Tortoise|CM|Ogruhl} has been trapped here for millennia, {@condition 束缚} by magic chains. Ogruhl was the prisoner of a cruel Netherese wizard. When the city around the tortoise was abandoned, Ogruhl was left to die. A band of chwingas found the tortoise and brought it food and water little by little to keep it alive. Over time, the chwingas and Ogruhl developed a symbiotic relationship\u2014it defended them and provided a home for them, and they helped it to survive.",
+										"{@creature Dragon Tortoise|CM|Ogruhl} has been trapped here for millennia, {@condition 束縛} by magic chains. Ogruhl was the prisoner of a cruel Netherese wizard. When the city around the tortoise was abandoned, Ogruhl was left to die. A band of chwingas found the tortoise and brought it food and water little by little to keep it alive. Over time, the chwingas and Ogruhl developed a symbiotic relationship\u2014it defended them and provided a home for them, and they helped it to survive.",
 										"{@b Helping Ogruhl}. A successful DC 20 Intelligence ({@skill Arcana}) check determines that the chains that bind Ogruhl can be broken with a successful {@spell dispel magic} spell (DC 19).",
 										"If commanded to do so, the {@creature Sapphire Sentinel|CM|golem} uses its sapphire heart to cast {@spell dispel magic} with a flash of blue light. If the players don't realize that the golem can dispel magic, you can have the golem do this automatically and the players learn about it that way.",
 										"If freed, Ogruhl expresses its immense gratitude and eagerly wants to reclaim its ancestral territory. The bravest chwingas come out to bestow a charm on each of the characters."
@@ -14234,7 +14234,7 @@
 												{
 													"type": "list",
 													"items": [
-														"Part of the ceiling collapses above one creature that the dracolich can see. The creature must succeed on a DC 15 Dexterity saving throw or take 21 ({@dice 6d6}) bludgeoning damage and be knocked {@condition 伏地} and buried under rubble. A buried creature is {@condition 束缚} and unable to stand up. A creature can use an action to try to pull itself or another creature out of the rubble, doing so with a successful DC 10 Strength ({@skill Athletics}) check.",
+														"Part of the ceiling collapses above one creature that the dracolich can see. The creature must succeed on a DC 15 Dexterity saving throw or take 21 ({@dice 6d6}) bludgeoning damage and be knocked {@condition 伏地} and buried under rubble. A buried creature is {@condition 束縛} and unable to stand up. A creature can use an action to try to pull itself or another creature out of the rubble, doing so with a successful DC 10 Strength ({@skill Athletics}) check.",
 														"A cloud of sand swirls in a 20-foot-radius sphere centered on a point the dracolich can see within 60 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be {@condition 目盲} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
 														"The dracolich chooses two points that it can see, each of which must be on a solid surface, and creates a 5-foot-wide line of lightning between them. The two points must be within 60 feet of the dracolich and 60 feet of each other. Each creature in the line must succeed on a DC 15 Dexterity saving throw or take 10 ({@dice 3d6}) lightning damage."
 													]
@@ -14838,7 +14838,7 @@
 														],
 														[
 															"5\u20136",
-															"Psychic energy fills a 20-foot-radius sphere centered on a point in the cavern chosen by the DM. Each creature in the area must succeed on a DC 16 Intelligence saving throw or take 31 ({@dice 4d12 + 5}) psychic damage and be {@condition 震慑} for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the {@condition 震慑} condition on itself on a success."
+															"Psychic energy fills a 20-foot-radius sphere centered on a point in the cavern chosen by the DM. Each creature in the area must succeed on a DC 16 Intelligence saving throw or take 31 ({@dice 4d12 + 5}) psychic damage and be {@condition 震懾} for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the {@condition 震懾} condition on itself on a success."
 														]
 													]
 												},
@@ -14866,7 +14866,7 @@
 											"name": "White Vines",
 											"id": "546",
 											"entries": [
-												"If one or more characters enter this cave, the white vines clinging to the walls quiver as the purple flowers open wide and spread their sweet scent. Each character in the cave must succeed on a DC 18 Constitution saving throw or fall {@condition 昏迷}. Characters who are immune to any effect that would put them to sleep succeed on the saving throw automatically. An {@condition 昏迷} character is {@condition 束缚} by the vines and takes 66 ({@dice 12d10}) piercing damage at the start of each of its turns until it is no longer {@condition 束缚} in this way.",
+												"If one or more characters enter this cave, the white vines clinging to the walls quiver as the purple flowers open wide and spread their sweet scent. Each character in the cave must succeed on a DC 18 Constitution saving throw or fall {@condition 昏迷}. Characters who are immune to any effect that would put them to sleep succeed on the saving throw automatically. An {@condition 昏迷} character is {@condition 束縛} by the vines and takes 66 ({@dice 12d10}) piercing damage at the start of each of its turns until it is no longer {@condition 束縛} in this way.",
 												"Characters can kill the vines by attacking their root in the center of the room. Treat the root as an immobile, Medium object with AC 15 and 100 hit points. When the root is reduced to 0 hit points, the vines release spores into the air as they die. These spores attach themselves to all creatures in the cave and have no effect until those covered with them face off against Xanthoria (see {@area area L11|55b|x}). Those who are exposed to the spores but take the time to wash themselves off with water suffer no ill effects."
 											]
 										},
@@ -15113,7 +15113,7 @@
 										"Xanthoria, a {@creature lichen lich|CM} (see her stat block at {@area the end of the adventure|561|x}), senses the characters and shoots them a crooked smile. As she does so, the boy's form abruptly stiffens and his body withers into a dry husk. Stealing the life force of the boy enables her to cast {@spell antilife shell} immediately and without visibly doing so. She continues to concentrate on the spell as she resumes her grisly work.",
 										"Xanthoria was a half-elf druid of Silvanus, and a small symbol of Silvanus hangs around her neck. Unfortunately for her, she fell into madness and her research became twisted due to the machinations of Zuggtmoy. She began to perform terrible experiments on living creatures to try to find ways to bridge the gap between life and death. Eventually, she turned her experiments on herself, causing her to transform into an unholy lichen lich.",
 										"Xanthoria is quite lonely and willing to talk to the group that has entered her grove, though she cannot be persuaded to discontinue her experiments. She has been aware of the characters' presence since they first entered the ruins of Lykortha and has been eagerly awaiting their arrival.",
-										"Xanthoria should be well prepared for the adventurers by the time they arrive at her warped druid grove and laboratory. She has called a {@creature nalfeshnee} named Danjak to her service. Danjak is an emissary of Zuggtmoy, and the demon's form is crusted and interwoven with a riotous blend of molds, lichen, and fungi. He lurks at the back of the cave, awaiting Xanthoria's command before stepping out of the shadows. Additionally, nearby lurks the rotting husk of an infected {@creature treant} ready to defend its master. The treant can't use its Animate Trees action here, since there are no other trees in the vicinity. In addition to the treant, four {@condition 隐形} {@creature Will-o'-Wisp||will-o'-wisps} flit about the grove, ready to use Consume Life on adventurers who fall in battle.",
+										"Xanthoria should be well prepared for the adventurers by the time they arrive at her warped druid grove and laboratory. She has called a {@creature nalfeshnee} named Danjak to her service. Danjak is an emissary of Zuggtmoy, and the demon's form is crusted and interwoven with a riotous blend of molds, lichen, and fungi. He lurks at the back of the cave, awaiting Xanthoria's command before stepping out of the shadows. Additionally, nearby lurks the rotting husk of an infected {@creature treant} ready to defend its master. The treant can't use its Animate Trees action here, since there are no other trees in the vicinity. In addition to the treant, four {@condition 隱形} {@creature Will-o'-Wisp||will-o'-wisps} flit about the grove, ready to use Consume Life on adventurers who fall in battle.",
 										{
 											"type": "entries",
 											"name": "Environmental Factors",
@@ -15161,7 +15161,7 @@
 							]
 						},
 						"Convincing Thunderwing to give up her life should be handled through roleplaying rather than ability checks, although you can require the characters to succeed on a DC 15 Charisma ({@skill Persuasion}) group check if the scene proves difficult to roleplay. If Thunderwing is convinced to sacrifice herself, she lets out a deep sigh before flying about and kissing each character on the forehead\u2014even the ones she doesn't like. Finally, she approaches the character with whom she has made the strongest connection, lies down in their open hands, and shivers slightly before expiring. Thunderwing can't be brought back to life by any means.",
-						"If the adventurers fail to convince Thunderwing to give up her life, she turns {@condition 隐形} and leaves the cave complex, taking refuge in the surrounding forest. Xanthoria re-forms {@dice 1d10} days later, appearing next to Thunderwing. The rejuvenated lichen lich then relocates to another lair to resume her research as the plague continues to ravage Faerûn.",
+						"If the adventurers fail to convince Thunderwing to give up her life, she turns {@condition 隱形} and leaves the cave complex, taking refuge in the surrounding forest. Xanthoria re-forms {@dice 1d10} days later, appearing next to Thunderwing. The rejuvenated lichen lich then relocates to another lair to resume her research as the plague continues to ravage Faerûn.",
 						"If the characters return to Candlekeep, they find Zelyth eager to hear the tale of their harrowing experience. If the characters inform Zelyth that Xanthoria has been destroyed, Zelyth thanks them for putting an end to Xanthoria's madness and granting her the final rest that she deserves.",
 						"The destruction of Xanthoria and her phylactery halts the spread of the saprophytic plague. Creatures infected by the plague continue to suffer its effects but no longer utter the word \"Xanthoria\" as they lose their mycelial connection to the lichen lich. Moreover, their spores are no longer contagious."
 					]
@@ -15184,7 +15184,7 @@
 									"items": [
 										"Poisonous spores fill a 10-foot cube that the lich can see within 120 feet of it. Any creature that enters the cloud for the first time on a turn or starts its turn there must succeed on a DC 19 Constitution saving throw or be {@condition 中毒} until the end of its next turn. The cloud lasts for 1 minute or until it is dispersed by a strong wind.",
 										"The lich commands the might of its diseased grove, creating a {@creature shambling mound}. The shambling mound appears in an unoccupied space within 30 feet of the lich, acts on its own initiative count, and obeys the lich's commands. The shambling mound dies after 1 hour or when the lich uses this lair action again.",
-										"Rotten roots and vines magically erupt in a 20-foot radius centered on a point on the ground that the lich can see within 120 feet of it. the lich is unaffected by the roots and vines. For all other creatures, the area becomes difficult terrain, and each creature in the area must succeed on a DC 19 Strength saving throw or be {@condition 束缚} by the roots. As an action, a creature can try to free itself or another creature within its reach, doing so with a successful DC 19 Strength ({@skill Athletics}) check. The roots and vines wilt away when the lich uses this lair action again or when the lich dies."
+										"Rotten roots and vines magically erupt in a 20-foot radius centered on a point on the ground that the lich can see within 120 feet of it. the lich is unaffected by the roots and vines. For all other creatures, the area becomes difficult terrain, and each creature in the area must succeed on a DC 19 Strength saving throw or be {@condition 束縛} by the roots. As an action, a creature can try to free itself or another creature within its reach, doing so with a successful DC 19 Strength ({@skill Athletics}) check. The roots and vines wilt away when the lich uses this lair action again or when the lich dies."
 									]
 								}
 							]

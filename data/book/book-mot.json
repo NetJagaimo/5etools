@@ -2797,7 +2797,7 @@
 								"\u2014The Callapheia"
 							]
 						},
-						"The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as {@spell 预言术} and {@spell 通神术} give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.",
+						"The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as {@spell 預言術} and {@spell 通神術} give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.",
 						{
 							"type": "image",
 							"href": {
@@ -2878,7 +2878,7 @@
 														}
 													]
 												},
-												"If a character struggles to interpret the meaning of an omen, you might allow them to make a DC 14 Intelligence or Wisdom check (perhaps modified by proficiency in {@skill 奥秘}, {@skill 自然}, or {@skill 宗教}) to determine the nature of simple omens, with a success indicating that the correct message has been gleaned. Alternatively, characters might need to seek out oracles to interpret complicated omens for them.",
+												"If a character struggles to interpret the meaning of an omen, you might allow them to make a DC 14 Intelligence or Wisdom check (perhaps modified by proficiency in {@skill 奧祕}, {@skill 自然}, or {@skill 宗教}) to determine the nature of simple omens, with a success indicating that the correct message has been gleaned. Alternatively, characters might need to seek out oracles to interpret complicated omens for them.",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3640,7 +3640,7 @@
 									"page": 111,
 									"id": "23c",
 									"entries": [
-										"Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The {@spell 预言术} and {@spell 通神术} spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple \"yes\" or \"no,\" a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a {@spell 预言术} or {@spell 通神术} spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the {@book Player's Handbook|PHB}). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer."
+										"Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The {@spell 預言術} and {@spell 通神術} spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple \"yes\" or \"no,\" a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a {@spell 預言術} or {@spell 通神術} spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the {@book Player's Handbook|PHB}). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer."
 									]
 								},
 								{
@@ -3649,7 +3649,7 @@
 									"page": 111,
 									"id": "23d",
 									"entries": [
-										"When mortals sleep and dream, they are said to \"visit Nyx.\" During this time, mortals are particularly susceptible to divine contact. A god might communicate with a sleeping mortal as if by casting {@spell 托梦术}\u2014including the ability to transform the mortal's dreamscape into a nightmare. Whatever form such a dream takes, they are often similar to omens, making heavy use of symbol and metaphor.",
+										"When mortals sleep and dream, they are said to \"visit Nyx.\" During this time, mortals are particularly susceptible to divine contact. A god might communicate with a sleeping mortal as if by casting {@spell 託夢術}\u2014including the ability to transform the mortal's dreamscape into a nightmare. Whatever form such a dream takes, they are often similar to omens, making heavy use of symbol and metaphor.",
 										{
 											"type": "image",
 											"href": {
@@ -3722,7 +3722,7 @@
 											"page": 114,
 											"id": "244",
 											"entries": [
-												"You have advantage on Wisdom ({@skill 察觉}) checks that rely on sight.",
+												"You have advantage on Wisdom ({@skill 察覺}) checks that rely on sight.",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3747,7 +3747,7 @@
 											"page": 114,
 											"id": "245",
 											"entries": [
-												"As an action, you can imbue your eyes with enhanced vision for 10 minutes. While the blessing is active, your eyes look like the starry void of Nyx, and you can see {@condition 隐形} creatures and objects within 60 feet of you that are within your line of sight. Once you use this blessing, you can't use it again until the next dusk.",
+												"As an action, you can imbue your eyes with enhanced vision for 10 minutes. While the blessing is active, your eyes look like the starry void of Nyx, and you can see {@condition 隱形} creatures and objects within 60 feet of you that are within your line of sight. Once you use this blessing, you can't use it again until the next dusk.",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3814,7 +3814,7 @@
 									"id": "249",
 									"entries": [
 										"The first stage of a divine ordeal is entering Nyx. Callaphe the mariner is said to have sailed her ship over the waterfall at the edge of the world and right into Nyx, where she can still be seen among the constellations. Additionally, Kruphix's Temple of Mystery at the edge of the world and the shrine of Nykthos are known to hold portals that lead to the gates of Nyx.",
-										"In theory, high-level characters can use spells such as {@spell 异界传送} or {@spell 异界之门} to move from the mortal realm to Nyx. In practice, securing the proper material component to travel to Nyx through the {@spell 异界传送} spell is roughly as difficult as sailing to the edge of the world, and Kruphix can (and usually does) prevent the {@spell 异界之门} spell from opening a portal into Nyx.",
+										"In theory, high-level characters can use spells such as {@spell 異界傳送} or {@spell 異界之門} to move from the mortal realm to Nyx. In practice, securing the proper material component to travel to Nyx through the {@spell 異界傳送} spell is roughly as difficult as sailing to the edge of the world, and Kruphix can (and usually does) prevent the {@spell 異界之門} spell from opening a portal into Nyx.",
 										"There might be other ways to get into Nyx, and each one is a challenge suited for the greatest heroes."
 									]
 								},
@@ -5934,7 +5934,7 @@
 												],
 												[
 													"8",
-													"A {@creature druid} uses the {@spell 启蒙术} spell on beasts in the arena to make them more capable competitors."
+													"A {@creature druid} uses the {@spell 啓蒙術} spell on beasts in the arena to make them more capable competitors."
 												]
 											]
 										}
@@ -8526,7 +8526,7 @@
 												],
 												[
 													"5",
-													"A {@creature giant boar} affected by the {@spell 启蒙术} spell convinces the shrine's druids to cast the spell on other boars to strike back at a contingent of hunting nobles."
+													"A {@creature giant boar} affected by the {@spell 啓蒙術} spell convinces the shrine's druids to cast the spell on other boars to strike back at a contingent of hunting nobles."
 												],
 												[
 													"6",
@@ -10202,7 +10202,7 @@
 												],
 												[
 													"5",
-													"A {@creature giant octopus} under the effects of the {@spell 启蒙术} spell hunts in the temple at high tide."
+													"A {@creature giant octopus} under the effects of the {@spell 啓蒙術} spell hunts in the temple at high tide."
 												],
 												[
 													"6",
@@ -10323,7 +10323,7 @@
 											"type": "list",
 											"items": [
 												"Aquatic or flying characters can visit the characters as they travel, appearing unexpectedly.",
-												"Magic items such as {@item sending stones} and spells such as {@spell 动物信使} allow characters to stay in touch over long distances.",
+												"Magic items such as {@item sending stones} and spells such as {@spell 動物信使} allow characters to stay in touch over long distances.",
 												"Powerful creatures might teleport to the characters' location\u2014particularly those unable (or disinclined) to share their teleportation powers.",
 												"When the characters dream, they might meet other creatures in Nyx.",
 												"Some of Theros's mystical islands move around on the sea, allowing the characters to run into them and their inhabitants multiple times."
@@ -10500,7 +10500,7 @@
 											"page": 178,
 											"id": "301",
 											"entries": [
-												"Those who visit the island risk being enchanted so they never want to leave. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be unwilling to leave the island before finishing another long rest. After failing this saving throw three times, the creature never willingly leaves the island and, if forcibly removed, does everything in its power to return. A {@spell 反制善恶} spell removes this effect from the creature."
+												"Those who visit the island risk being enchanted so they never want to leave. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be unwilling to leave the island before finishing another long rest. After failing this saving throw three times, the creature never willingly leaves the island and, if forcibly removed, does everything in its power to return. A {@spell 反制善惡} spell removes this effect from the creature."
 											]
 										},
 										{
@@ -10509,7 +10509,7 @@
 											"page": 178,
 											"id": "302",
 											"entries": [
-												"Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the {@spell 变形术} spell and transformed into a pig (use the {@creature boar} stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like {@spell 移除诅咒}."
+												"Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the {@spell 變形術} spell and transformed into a pig (use the {@creature boar} stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like {@spell 移除詛咒}."
 											]
 										},
 										{
@@ -10750,7 +10750,7 @@
 									"page": 182,
 									"id": "311",
 									"entries": [
-										"By far the simplest means of return for a dead soul is for someone who yet lives to cast a {@spell 唤醒死者}, {@spell 复活术}, or {@spell 完全复活术} spell. If a mortal is a frequent recipient of resurrection magic, Erebos might take a special interest in that soul. A soul in the clutches of Erebos himself isn't free, so it can't be returned to life by mortal magic."
+										"By far the simplest means of return for a dead soul is for someone who yet lives to cast a {@spell 喚醒死者}, {@spell 復活術}, or {@spell 完全復活術} spell. If a mortal is a frequent recipient of resurrection magic, Erebos might take a special interest in that soul. A soul in the clutches of Erebos himself isn't free, so it can't be returned to life by mortal magic."
 									]
 								},
 								{
@@ -11244,7 +11244,7 @@
 										],
 										[
 											"2",
-											"{@b Light Sensitivity}. A creature of the night sky, the Nyxborn has disadvantage on attack rolls, as well as on Wisdom ({@skill 察觉}) checks that rely on sight, while it is in bright light."
+											"{@b Light Sensitivity}. A creature of the night sky, the Nyxborn has disadvantage on attack rolls, as well as on Wisdom ({@skill 察覺}) checks that rely on sight, while it is in bright light."
 										],
 										[
 											"3",
@@ -11407,7 +11407,7 @@
 											"page": 206,
 											"id": "38f",
 											"entries": [
-												" Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 7 ({@dice 2d6}) bludgeoning damage, and the target is {@condition 被擒} (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is {@condition 束缚}, and the medusa can't constrict another target.",
+												" Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 7 ({@dice 2d6}) bludgeoning damage, and the target is {@condition 被擒} (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is {@condition 束縛}, and the medusa can't constrict another target.",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -11624,8 +11624,8 @@
 										{
 											"type": "list",
 											"items": [
-												"Arasta learns about any creature touching her webs. Each creature {@condition 束缚} by a web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, Arasta gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.",
-												"Arasta casts the {@spell 巨虫术} spell (spiders only). It lasts until she uses this lair action again or until she dies."
+												"Arasta learns about any creature touching her webs. Each creature {@condition 束縛} by a web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, Arasta gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.",
+												"Arasta casts the {@spell 巨蟲術} spell (spiders only). It lasts until she uses this lair action again or until she dies."
 											]
 										},
 										{
@@ -11723,7 +11723,7 @@
 											"type": "list",
 											"items": [
 												"Hythonia briefly animates creatures that have been {@condition 石化} by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 ({@dice 3d6}) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also {@condition 被擒} (escape DC 15).",
-												"Hythonia causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 ({@dice 2d4}) piercing damage and become {@condition 中毒} until the end of its next turn. While {@condition 中毒} in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the {@spell 困惑术} spell."
+												"Hythonia causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 ({@dice 2d4}) piercing damage and become {@condition 中毒} until the end of its next turn. While {@condition 中毒} in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the {@spell 困惑術} spell."
 											]
 										},
 										{

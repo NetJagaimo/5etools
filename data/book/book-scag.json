@@ -6662,10 +6662,10 @@
 						{
 							"type": "list",
 							"items": [
-								"{@spell 轰雷剑|TCE}",
-								"{@spell 翠炎剑|TCE}",
-								"{@spell 闪电牵引|TCE}",
-								"{@spell 剑刃爆发|TCE}"
+								"{@spell 轟雷劍|TCE}",
+								"{@spell 翠炎劍|TCE}",
+								"{@spell 閃電牽引|TCE}",
+								"{@spell 劍刃爆發|TCE}"
 							]
 						}
 					],

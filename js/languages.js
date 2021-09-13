@@ -110,7 +110,7 @@ class LanguagesPage extends ListPage {
 
 		const tabMetas = [
 			new Renderer.utils.TabButton({
-				label: "特征",
+				label: "特徵",
 				fnPopulate: buildStatsTab,
 				isVisible: true,
 			}),
@@ -120,12 +120,12 @@ class LanguagesPage extends ListPage {
 				isVisible: Renderer.utils.hasFluffText(it, "languageFluff"),
 			}),
 			new Renderer.utils.TabButton({
-				label: "图片",
+				label: "圖片",
 				fnPopulate: buildFluffTab.bind(null, true),
 				isVisible: Renderer.utils.hasFluffImages(it, "languageFluff"),
 			}),
 			new Renderer.utils.TabButton({
-				label: "字体",
+				label: "字體",
 				fnPopulate: () => {
 					$content.append(Renderer.utils.getBorderTr());
 					$content.append(Renderer.utils.getNameTr(it));

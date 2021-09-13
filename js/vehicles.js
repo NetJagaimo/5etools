@@ -130,7 +130,7 @@ class VehiclesPage extends ListPage {
 				isVisible: Renderer.utils.hasFluffText(veh, "vehicleFluff"),
 			}),
 			new Renderer.utils.TabButton({
-				label: "图片",
+				label: "圖片",
 				fnChange: () => $floatToken.hide(),
 				fnPopulate: buildFluffTab.bind(null, true),
 				isVisible: Renderer.utils.hasFluffImages(veh, "vehicleFluff"),
